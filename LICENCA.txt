@@ -1,0 +1,28 @@
+﻿TERMOS DE USO — CAPTUREI
+Desenvolvedor: GhostDev
+
+Ao instalar ou usar o Capturei, você concorda com estes termos.
+
+1. USO GRATUITO
+O Capturei é gratuito. Você pode instalá-lo e usá-lo em quantos computadores quiser, para fins pessoais ou profissionais.
+
+2. DISTRIBUIÇÃO
+Você pode compartilhar o instalador original do Capturei, desde que não o modifique, não o venda e não remova os créditos ao desenvolvedor.
+
+3. O QUE NÃO É PERMITIDO
+Não é permitido vender o Capturei, alterar ou fazer engenharia reversa do aplicativo para redistribuí-lo, nem apresentá-lo como obra de outra pessoa.
+
+4. PRIVACIDADE
+O Capturei funciona no seu computador e não coleta nem envia dados pessoais. A única conexão com a internet é a verificação de atualizações, que pode ser desligada nas Configurações. Os detalhes estão na Política de Privacidade (menu Sobre > Política de Privacidade, ou o arquivo PRIVACIDADE.md na pasta de instalação).
+
+5. RESPONSABILIDADE PELO CONTEÚDO
+As capturas podem conter informações pessoais ou de terceiros. Você é responsável pelo que captura e compartilha, e por respeitar a privacidade das pessoas e a legislação aplicável, como a LGPD (Lei nº 13.709/2018).
+
+6. SEM GARANTIA
+O Capturei é fornecido "como está", sem garantias de qualquer tipo. Na medida permitida por lei, o desenvolvedor não se responsabiliza por perdas ou danos decorrentes do uso do aplicativo.
+
+7. DIREITOS
+O Capturei, seu nome, ícone e código são de propriedade de GhostDev. Todos os direitos não concedidos expressamente nestes termos são reservados.
+
+8. ALTERAÇÕES
+Estes termos podem ser atualizados em novas versões do aplicativo.
