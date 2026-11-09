@@ -1,5 +1,17 @@
 # Novidades do Capturei
 
+## 1.3.0
+
+- **Captura com rolagem nas duas direções:** em conversas que abrem nas mensagens mais novas (WhatsApp, Teams, Telegram), a rolagem automática percebe que já está no fim e **sobe** sozinha. No modo "Rolar eu mesmo", você pode rolar para cima, para baixo e voltar, e tudo é emendado no lugar certo. Isso resolve os casos em que a captura parava com uma tela só.
+- **Botão direito no editor:** clique com o botão direito em qualquer ponto da imagem para colocar ali um **texto, seta apontando para o ponto, marca-texto, retângulo, círculo, número ou pixelado**. Num item já desenhado, o botão direito também oferece editar, duplicar, trazer para frente, enviar para trás e excluir.
+- **Forçar atalho em uso:** se a combinação de teclas já for usada por outro programa, clique em **Forçar** nas Configurações para o Capturei passar a ter prioridade. No Print Screen, o atalho da Ferramenta de Captura do Windows é desligado. Dá para **Desfazer**, e o original volta.
+- **Sobre:** novo botão **Indique para um amigo**, que copia o link e abre a página do Capturei, e link para o GitHub do desenvolvedor.
+- Ao clicar em **Nova captura** no editor, as telas do editor abertas são minimizadas.
+
+## 1.2.1
+
+- **Nova captura a partir do editor:** ao clicar em **Nova captura** (ou `Ctrl+N`), as telas do editor abertas são minimizadas. Elas não ficam mais na frente nem aparecem na captura nova, e continuam na barra de tarefas para você voltar a elas quando quiser.
+
 ## 1.2.0
 
 - **Barra de opções na seleção:** depois de escolher a região ou a janela, a seleção fica na tela com uma barra: **Capturar · Com rolagem · Copiar · Salvar · Editar**.
