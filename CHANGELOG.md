@@ -1,5 +1,13 @@
 # Novidades do Capturei
 
+## 1.1.0
+
+- **Captura com rolagem:** selecione um bloco que tem barra de rolagem (página, conversa, lista, documento) e o Capturei rola sozinho, tira as telas em sequência e junta tudo numa imagem só, comprida, sem perder qualidade.
+  - Cabeçalhos e rodapés fixos aparecem uma vez só, no lugar certo.
+  - Para sozinho no fim do conteúdo, ou quando você aperta **Esc** ou clica em **Concluir**.
+  - Novo modo **Com rolagem** na janela principal, atalho `Ctrl+Alt+Print Screen` (configurável) e tecla **S** para ativar durante a seleção normal.
+- Janela de atualização: o texto da versão instalada não fica mais cortado.
+
 ## 1.0.1
 
 - **Atualização automática:** o Capturei avisa quando sai uma versão nova e atualiza com um clique. O download é conferido (SHA-256) antes de instalar e suas configurações e capturas são mantidas.
