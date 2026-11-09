@@ -16,7 +16,8 @@ Depois de instalado, o Capturei **avisa sozinho quando sai uma versão nova** e 
 ## O que ele faz
 
 - **Captura do jeito que você quiser:** região, janela, **forma livre** (contorne qualquer área com o mouse), tela inteira ou só um monitor.
-- **Captura com rolagem:** selecione um bloco que rola (página, conversa, lista) e o Capturei rola sozinho e junta tudo numa imagem só.
+- **Barra de opções na seleção:** depois de escolher a área, ajuste pelas alças e escolha **Capturar · Rolagem auto · Rolar eu mesmo · Copiar · Salvar · Editar**.
+- **Captura com rolagem:** selecione um bloco que rola (página, conversa, lista) e junte tudo numa imagem só. O Capturei pode rolar sozinho, ou você mesmo rola com a roda do mouse no seu ritmo.
 - **Desenhar na tela:** congela a tela para você rabiscar, destacar e apontar antes de capturar.
 - **Editor completo:** setas (com ponta dupla), linhas, retângulos, círculos, desenho livre, marca-texto, texto, numeração de passos, pixelar dados sensíveis e recortar.
 - **Tudo continua editável:** arraste as pontas da seta para o lugar exato, redimensione formas pelas alças e troque cor e tamanho quando quiser.
