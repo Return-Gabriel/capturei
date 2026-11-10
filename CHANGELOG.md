@@ -1,5 +1,14 @@
 # Novidades do Capturei
 
+## 1.4.2
+
+- **Mais leve em computadores mais simples (8 GB de RAM):**
+  - **Configurações** abrem na hora. A lista de microfones é carregada em segundo plano, então a janela não congela mais esperando o áudio do Windows.
+  - **Gravação:** a preparação do gravador acontece em segundo plano, sem travar a tela. Em PCs com até 8 GB ou até 4 núcleos, a gravação usa 30 quadros por segundo automaticamente, para não sobrecarregar o processador.
+  - **Capturas recentes:** as miniaturas carregam em segundo plano e ficam guardadas, sem travar a janela depois de cada captura.
+  - **Atalhos forçados:** a leitura do teclado roda separada da janela, então a digitação no computador nunca fica lenta por causa do Capturei.
+  - A preparação do áudio para gravar acontece só depois que a janela abriu, então o app abre mais rápido.
+
 ## 1.4.1
 
 - **Aviso de atualização na tela:** quando existir uma versão mais nova, aparece uma faixa no topo da janela principal com o botão **Atualizar agora**. Ela fica lá até você atualizar. O Capturei verifica ao abrir e a cada 4 horas, e também avisa na bandeja.
