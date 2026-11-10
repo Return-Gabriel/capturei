@@ -1,5 +1,13 @@
 # Novidades do Capturei
 
+## 1.4.1
+
+- **Aviso de atualização na tela:** quando existir uma versão mais nova, aparece uma faixa no topo da janela principal com o botão **Atualizar agora**. Ela fica lá até você atualizar. O Capturei verifica ao abrir e a cada 4 horas, e também avisa na bandeja.
+- **Áudio da gravação na mão:** botões **Microfone** e **Som do PC** logo abaixo de "Gravar tela" para escolher com ou sem áudio antes de gravar.
+- **Silenciar o microfone durante a gravação:** novo botão de microfone na barra de gravação. Um clique silencia, outro volta, e o vídeo continua gravando.
+- **Gravação mais confiável:** o áudio é preparado quando o app abre. Se o gravador demorar para começar, ele tenta de novo sozinho. Se o microfone não responder de jeito nenhum, a gravação começa sem áudio e avisa, em vez de falhar.
+- Copiar para a área de transferência funciona mesmo quando outro programa a está usando por alguns instantes.
+
 ## 1.4.0
 
 - **Gravar tela com áudio:** grave em vídeo uma área, uma janela ou o monitor inteiro, **falando pelo microfone** enquanto grava.
