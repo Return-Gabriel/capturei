@@ -1,5 +1,16 @@
 # Novidades do Capturei
 
+## 1.4.0
+
+- **Gravar tela com áudio:** grave em vídeo uma área, uma janela ou o monitor inteiro, **falando pelo microfone** enquanto grava.
+  - Vídeo MP4 (H.264) no tamanho real da área, até 60 quadros por segundo, com qualidade visualmente idêntica à tela. Há também a opção "Máxima".
+  - Áudio AAC de 48 kHz em estéreo a 192 kbps. Dá para gravar também o som do computador (vídeos, chamadas).
+  - Contagem regressiva, moldura vermelha e barra com tempo, microfone em uso e os botões **Pausar**, **Parar** e **Descartar**. A barra e a moldura não aparecem no vídeo.
+  - No fim: **Assistir**, **Abrir pasta** ou **Copiar arquivo** para colar direto no WhatsApp ou num e-mail.
+  - Botão **Gravar tela** na janela principal, atalho `Ctrl+Alt+G` para iniciar e parar, e opções de microfone, qualidade e cursor em **Configurações → Gravação de tela**.
+- **Enviar feedback:** dê uma nota, conte do que gostou e o que está faltando. A mensagem abre pronta no seu e-mail (ou no Gmail) para o desenvolvedor.
+- Instalação em pasta (sem compressão), o que também ajuda a reduzir alertas de antivírus.
+
 ## 1.3.0
 
 - **Captura com rolagem nas duas direções:** em conversas que abrem nas mensagens mais novas (WhatsApp, Teams, Telegram), a rolagem automática percebe que já está no fim e **sobe** sozinha. No modo "Rolar eu mesmo", você pode rolar para cima, para baixo e voltar, e tudo é emendado no lugar certo. Isso resolve os casos em que a captura parava com uma tela só.

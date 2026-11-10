@@ -15,6 +15,8 @@ Todos os dados abaixo ficam somente no seu computador:
 
 - **Capturas de tela e imagens editadas:** ficam na pasta que você escolher (padrão: `Imagens\Capturei`). Só são criadas quando você faz uma captura ou salva uma imagem.
 - **Área de transferência:** o Capturei só copia imagens para ela quando você clica em Copiar ou ativa "Copiar automaticamente". Ele nunca lê o que você copiou de outros programas.
+- **Gravações de tela:** só acontecem quando você clica em "Gravar tela". A contagem regressiva, a moldura vermelha e a barra de controle ficam sempre visíveis. Os vídeos ficam no seu computador, em `Vídeos\Capturei`.
+- **Microfone e som do computador:** são usados apenas durante uma gravação que você iniciou, e só se estiverem ligados nas Configurações. O áudio vai somente para o arquivo de vídeo no seu computador.
 - **Configurações:** atalhos, pasta, formato e preferências ficam em `%APPDATA%\Capturei\settings.json`.
 - **Registro de erros:** se algo falhar, o Capturei grava detalhes técnicos em `%APPDATA%\Capturei\erros.log`. O arquivo não contém imagens nem dados pessoais e nunca é enviado a ninguém.
 - **Inicialização com o Windows:** se você ativar essa opção, o Capturei cria uma entrada `Run` no registro do seu usuário. Ela é removida quando você desativa a opção.
@@ -26,6 +28,10 @@ A única conexão que o Capturei faz é para saber se existe uma versão nova. U
 Nessa consulta não vai nenhum dado pessoal, imagem ou informação sobre o seu uso. Vai apenas a requisição padrão da internet, que identifica o aplicativo como "Capturei" e a versão instalada. Como em qualquer acesso a um site, o GitHub recebe o endereço IP da conexão, conforme a política de privacidade do próprio GitHub.
 
 Você pode desligar a verificação automática em *Configurações → Procurar atualizações automaticamente*. Não há telemetria, estatísticas de uso, anúncios nem outros serviços de terceiros.
+
+## Feedback
+
+Se você usar "Enviar feedback", o Capturei apenas monta a mensagem e abre o **seu** programa de e-mail (ou o Gmail no navegador), endereçada a alves.santos.biel@gmail.com. Nada é enviado sem você clicar em Enviar, e só vai o que você escreveu. Se você marcar a opção, vão também a versão do Capturei e do Windows. As mensagens são usadas apenas para melhorar o aplicativo e para responder você, se pedir.
 
 ## 4. Compartilhamento com terceiros
 
@@ -47,4 +53,4 @@ Se uma versão futura mudar a forma como o aplicativo trata dados, esta polític
 
 ## 8. Contato
 
-Mande suas dúvidas ao desenvolvedor, GhostDev, pelo mesmo canal em que você recebeu o aplicativo.
+Mande suas dúvidas ao desenvolvedor, GhostDev, pelo e-mail alves.santos.biel@gmail.com.
